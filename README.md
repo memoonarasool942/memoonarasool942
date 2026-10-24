@@ -33,19 +33,30 @@
 
 ## TECH STACK
 
+<h2>⌘ TECH STACK <code>// 02</code></h2>
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,git,github,vscode,nodejs,express" />
+<h3>LANGUAGES</h3>
+<img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css&logoColor=white" />
 
+<h3>BACKEND & DATABASES</h3>
+<img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-111111?style=for-the-badge&logo=sqlite&logoColor=white" />
+
+<h3>TOOLS & DEVELOPMENT</h3>
+<img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 <br><br>
-
-**Databases:** SQLite · SQL
-
 </div>
-
 <br>
-
-## FEATURED PROJECTS
+<h2>⌘ FEATURED PROJECTS <code>// 03</code></h2>
 
 ### Secure IT Helpdesk System
 
