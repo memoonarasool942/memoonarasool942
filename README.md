@@ -1,12 +1,16 @@
 <div align="center">
+  <img src="banner.png" width="100%" alt="Developer profile banner">
+</div>
 
-# MEMOONA RASOOL
+<br>
 
-### Software Engineering Student
-
-`Backend Development` · `Full-Stack Development` · `Cloud & DevOps`
-
-Building, learning and improving one project at a time.
+<div align="center">
+  <h1>MEMOONA RASOOL </h1>
+  <p><code>SOFTWARE ENGINEERING STUDENT</code></p>
+  <p><sub>BACKEND DEVELOPMENT · FULL-STACK · CLOUD & DEVOPS</sub></p>
+  <p><sub>BUILD · LEARN · IMPROVE</sub></p>
+</div>
+<br>
 
 ---
 
@@ -80,10 +84,12 @@ An interactive e-commerce website featuring a shopping basket, form validation a
 
 <br>
 
-## CONNECT
+<h2 align="center">CONNECT WITH ME</h2>
 
 <div align="center">
 
-Open to software engineering placement opportunities for 2027/28.
+<a href="https://www.linkedin.com/in/memoona-rasool">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/>
+</a>
 
 </div>
