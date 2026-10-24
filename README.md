@@ -3,7 +3,6 @@
 </div>
 
 <br>
-
 <div align="center">
 <img src="./memoona-signature-opaque.gif" width="85%" alt="Memoona Rasool">
   <p><code>SOFTWARE ENGINEERING STUDENT</code></p>
