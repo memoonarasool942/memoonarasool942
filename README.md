@@ -8,33 +8,29 @@
 <img src="memoona-heading.svg" width="100%" alt="Memoona Rasool">
   <p><code>SOFTWARE ENGINEERING STUDENT</code></p>
   <p><sub>BACKEND DEVELOPMENT · FULL-STACK · CLOUD & DEVOPS</sub></p>
-  <p><sub>BUILD · LEARN · IMPROVE</sub></p>
 </div>
 <br>
 
 ---
+<h2>⌘ ABOUT ME <code>// 01</code></h2>
 
-### ABOUT ME
+<table>
+<tr>
+<td>
 
-Second-year BSc (Hons) Software Engineering student at Manchester Metropolitan University.
+<strong>Second-year BSc (Hons) Software Engineering student</strong> at Manchester Metropolitan University.
 
-Interested in backend development, software architecture and cloud infrastructure.
+<p>Interested in <strong>backend development, software architecture and cloud infrastructure.</strong></p>
 
-Currently developing my skills through university coursework, independent projects and practical programming.
+<p>Currently building projects, exploring new technologies and improving my problem-solving skills.</p>
 
-</div>
+</td>
+</tr>
+</table>
 
-<br>
-
-## CURRENTLY LEARNING
-
-- Advanced Programming with Java
-- Full-Stack Web Development with Node.js and Express
-- Software Testing
-- DevSecOps
-- Git and GitHub
-
-<br>
+</td>
+</tr>
+</table>
 
 ## TECH STACK
 
