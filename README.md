@@ -31,8 +31,6 @@
 </tr>
 </table>
 
-## TECH STACK
-
 <h2>⌘ TECH STACK <code>// 02</code></h2>
 
 <div align="center">
@@ -55,26 +53,52 @@
 <img src="https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 <br><br>
 </div>
-<br>
+
 <h2>⌘ FEATURED PROJECTS <code>// 03</code></h2>
 
-### Secure IT Helpdesk System
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Python · SQLite · Role-Based Access Control
+<h3>01 / SECURE IT HELPDESK</h3>
 
-A command-line helpdesk application featuring user authentication, ticket management and a layered architecture.
-
-[View Project](https://github.com/memoona-rasool/secure-it-helpdesk-system-clean)
-
-### My Bookshop
-
-HTML · CSS · JavaScript · REST API Integration
-
-An interactive e-commerce website featuring a shopping basket, form validation and integration with a university-provided payment API.
-
-[View Project](https://github.com/memoonarasool942/my-bookshop)
+<code>PYTHON</code> <code>SQLITE</code> <code>RBAC</code>
 
 <br>
+
+A command-line IT support system featuring role-based access control, secure password handling, and ticket lifecycle management.
+
+Built with a layered architecture separating the interface, business logic, and database operations.
+
+<br>
+
+<a href="https://github.com/memoona-rasool/secure-it-helpdesk-system-clean">
+  <strong>VIEW REPOSITORY ↗</strong>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>02 / MY BOOKSHOP</h3>
+
+<code>HTML</code> <code>CSS</code> <code>JAVASCRIPT</code>
+
+<br>
+
+An interactive e-commerce website featuring a shopping basket, client-side form validation, and payment API integration.
+
+Uses session storage to maintain shopping basket data across pages.
+
+<br>
+
+<a href="https://github.com/memoonarasool942/my-bookshop">
+  <strong>VIEW REPOSITORY ↗</strong>
+</a>
+
+</td>
+</tr>
+</table>
 
 ## GITHUB ACTIVITY
 
