@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-<img src="memoona-heading.svg" width="100%" alt="Memoona Rasool">
+<img src="./memoona-signature-opaque.gif" width="85%" alt="Memoona Rasool">
   <p><code>SOFTWARE ENGINEERING STUDENT</code></p>
   <p><sub>BACKEND DEVELOPMENT · FULL-STACK · CLOUD & DEVOPS</sub></p>
 </div>
