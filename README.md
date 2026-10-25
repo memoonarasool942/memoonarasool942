@@ -1,13 +1,20 @@
+<!-- PROFILE BANNER -->
+<div align="center">
+  <img src="./banner.png" width="100%" alt="Developer Profile Banner"/>
+</div>
+
+<br>
+
+<!-- NAME & INTRODUCTION -->
 <div align="center">
 
   <img src="./memoona-signature-opaque.gif"
-       width="65%"
-       alt="Memoona Rasool">
+       width="85%"
+       alt="Memoona Rasool"/>
 
-  <p>
-    <code>SOFTWARE ENGINEERING STUDENT</code>
-  </p>
+  <p><code>SOFTWARE ENGINEERING STUDENT</code></p>
 
+  <!-- SOCIAL LINKS -->
   <a href="https://www.linkedin.com/in/memoona-rasool/">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="LinkedIn"
@@ -20,6 +27,8 @@
   </a>
 
 </div>
+
+<br>
 
 ---
 <h2 align="center">⌘ ABOUT ME // 01</h2>
