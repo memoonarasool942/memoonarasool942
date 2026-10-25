@@ -1,37 +1,45 @@
 <div align="center">
-  <img src="banner.png" width="100%" alt="Developer profile banner">
-</div>
 
-<br>
-<div align="center">
-<img src="./memoona-signature-opaque.gif" width="85%" alt="Memoona Rasool">
-  <p><code>SOFTWARE ENGINEERING STUDENT</code></p>
-  <p><sub>BACKEND DEVELOPMENT · FULL-STACK · CLOUD & DEVOPS</sub></p>
+  <img src="./memoona-signature-opaque.gif"
+       width="65%"
+       alt="Memoona Rasool">
+
+  <p>
+    <code>SOFTWARE ENGINEERING STUDENT</code>
+  </p>
+
+  <a href="https://www.linkedin.com/in/memoona-rasool/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="LinkedIn"
+         height="25"/>
+  </a>
+  <a href="mailto:memoona.rasool77@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+         alt="Email"
+         height="25"/>
+  </a>
+
 </div>
-<br>
 
 ---
-<h2>⌘ ABOUT ME <code>// 01</code></h2>
+<h2 align="center">⌘ ABOUT ME // 01</h2>
 
-<table>
-<tr>
-<td>
+<div align="center">
 
-<strong>Second-year BSc (Hons) Software Engineering student</strong> at Manchester Metropolitan University.
+  <p>
+    <strong>Second-year BSc (Hons) Software Engineering student at Manchester Metropolitan University.</strong>
+  </p>
 
-<p>Interested in <strong>backend development, software architecture and cloud infrastructure.</strong></p>
+  <p>
+    Interested in backend development, software architecture and cloud infrastructure.
+  </p>
 
-<p>Currently building projects, exploring new technologies and improving my problem-solving skills.</p>
+  <p>
+    Currently building projects, exploring new technologies and improving my problem-solving skills.
+  </p>
 
-</td>
-</tr>
-</table>
-
-</td>
-</tr>
-</table>
-
-<h2>⌘ TECH STACK <code>// 02</code></h2>
+</div>
+<h2 align="center">⌘ TECH STACK // 02</h2>
 
 <div align="center">
 
@@ -54,8 +62,7 @@
 <br><br>
 </div>
 
-<h2>⌘ FEATURED PROJECTS <code>// 03</code></h2>
-
+<h2 align="center">⌘ FEATURED PROJECTS // 03</h2>
 <table>
 <tr>
 <td width="50%" valign="top">
